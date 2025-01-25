@@ -6,7 +6,7 @@ I’m currently working on **algorithmic problems** and trying to improve my alg
 >"Expect nothing. Live frugally on **surprise**."
 >*Alice Walker*
 
-![This is an alt text.](https://c02.purpledshub.com/uploads/sites/48/2023/02/GettyImages-1378951310-6403c35-e1676974254216.jpg?webp=1&w=1200 "This is a sample image.")
+![This is an alt text.]([https://c02.purpledshub.com/uploads/sites/48/2023/02/GettyImages-1378951310-6403c35-e1676974254216.jpg?webp=1&w=1200](https://c02.purpledshub.com/uploads/sites/48/2019/04/lunar-phase-poster-copy-8a4805a.jpg?webp=1&w=1200) "Moon")
 
 <!--
 **AskaReign/AskaReign** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
