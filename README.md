@@ -1,5 +1,5 @@
 ## Hi there 👋
-# I’m currently working on algorithmic problems and trying to improve my knowledge and skills.
+I’m currently working on algorithmic problems and trying to improve my knowledge and skills.
 
 <!--
 **AskaReign/AskaReign** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
