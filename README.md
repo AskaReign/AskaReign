@@ -5,7 +5,7 @@ I’m currently working on **algorithmic problems** and trying to improve my alg
 >"Expect nothing. Live frugally on **surprise**."
 ><br>- *Alice Walker*
 
-![This is an alt text.](https://c02.purpledshub.com/uploads/sites/48/2024/01/moon-phases-2025-scaled.jpg?webp=1&w=1200 "This is a sample image.")
+![This is an alt text.](https://c02.purpledshub.com/uploads/sites/48/2024/01/moon-phases-2025-scaled.jpg?webp=1&w=1200 "Darling the moon, is still the moon in all of its phases.")
 
 <!--
 ![This is an alt text.](https://c02.purpledshub.com/uploads/sites/48/2021/01/phases-of-moon-hero.jpg?webp=1&w=1200 "This is a sample image.")
