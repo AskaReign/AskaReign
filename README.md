@@ -1,5 +1,12 @@
-## Hi there 👋
-I’m currently working on algorithmic problems and trying to improve my knowledge and skills.
+## Welcome
+I’m currently working on **algorithmic problems** and trying to improve my algorithmic knowledge and coding skills.
+
+## What to expect in 2025
+
+>"Expect nothing. Live frugally on **surprise**."
+>*Alice Walker*
+
+![This is an alt text.](https://c02.purpledshub.com/uploads/sites/48/2023/02/GettyImages-1378951310-6403c35-e1676974254216.jpg?webp=1&w=1200 "This is a sample image.")
 
 <!--
 **AskaReign/AskaReign** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
