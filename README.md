@@ -1,6 +1,6 @@
 ## Welcome
 I’m currently working on **algorithmic problems** and trying to improve my algorithmic knowledge and coding skills.
-## What to expect in 2025
+## What to expect from AskaReign in 2025
 <span style="color:red"> hey <span/>
 >"Expect nothing. Live frugally on **surprise**."
 ><br>- *Alice Walker*
