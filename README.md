@@ -1,6 +1,5 @@
 ## Welcome
 I’m currently working on **algorithmic problems** and trying to improve my algorithmic knowledge and coding skills.
-
 ## What to expect from A<span style="color:red">skaReign<span/> <span style="color:black">in 2025<span/> 
 
 >"Expect nothing. Live frugally on **surprise**."
