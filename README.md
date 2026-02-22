@@ -1,6 +1,6 @@
 ## Welcome
 I’m trying to improve my algorithmic knowledge and coding skills.
-## What to expect from AskaReign in 2025
+## What to expect from me in 2026
 
 >"Expect nothing. Live frugally on **surprise**."
 ><br>- *Alice Walker*
@@ -15,7 +15,7 @@ But listen to this rapper dude, Jack Harlow:<br>
 “Sometimes when I sit back and really let it register,
 I did everything I said I would and said it first.”
 
-![This is an alt text.](https://c02.purpledshub.com/uploads/sites/48/2024/01/moon-phases-2025-scaled.jpg?webp=1&w=1200 "Darling the moon, is still the moon in all of its phases.")
+![This is an alt text.](https://c02.purpledshub.com/uploads/sites/48/2026/01/lunar-occultation-pleiades.jpg?webp=1&w=1200)
 
 <!--
 ![This is an alt text.](https://c02.purpledshub.com/uploads/sites/48/2021/01/phases-of-moon-hero.jpg?webp=1&w=1200 "This is a sample image.")
